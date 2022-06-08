@@ -1,2 +1,1 @@
-# Mydog
-Site for buying dogs
+TinDog Starting Files
